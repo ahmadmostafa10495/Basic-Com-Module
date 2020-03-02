@@ -1,0 +1,1 @@
+SL/BCM/BCM_LCfg.d SL/BCM/BCM_LCfg.o: ../SL/BCM/BCM_LCfg.c
